@@ -12,13 +12,13 @@ There are 4 mothods to investigate efficiency of different combinations of modal
 
 The pdovided methods are:
 
-  1.Early Fusion Transformer(EFT)
+  1. Early Fusion Transformer(EFT)
 
-  2.Late fusion transformer with soft-ranking(LFT+SR)
+  2. Late fusion transformer with soft-ranking(LFT+SR)
 
-  3.Late-fusion transformer-based model with softmax and attention (LFT+SFA)
+  3. Late-fusion transformer-based model with softmax and attention (LFT+SFA)
 
-  4.Late-fusion transformer-based model with multi-head attention output and attention layer (LFT+AA)
+  4. Late-fusion transformer-based model with multi-head attention output and attention layer (LFT+AA)
   
   Before using the codes dataset address should be adjusted inside the Prepare_data.py script. 
 
