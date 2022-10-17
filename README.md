@@ -21,6 +21,10 @@ The pdovided methods are:
   4. Late-fusion transformer-based model with multi-head attention output and attention layer (LFT+AA)
   
   Before using the codes dataset address should be adjusted inside the Prepare_data.py script. 
+  
+  Here is a sample usage of the scripts:
+    
+      python LFT+AA.py --include-prior true --future-pred 5 --history-sec 4
 
 
 
